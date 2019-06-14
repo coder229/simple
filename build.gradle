@@ -14,8 +14,8 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 bootJar {
-    baseName = 'gs-serving-web-content'
-    version =  '0.1.0'
+    baseName = 'springapp'
+    version =  '0.1'
 }
 
 repositories {
